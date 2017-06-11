@@ -1,0 +1,188 @@
+/* font-family: 'Merriweather', serif; */
+body {
+	background-color:#F76240;
+	color:white;
+	margin: 0;
+}
+a {
+	text-decoration:none;
+	color:white;
+}
+h2 {
+	font-family: 'Roboto', sans-serif;
+	font-size:25px;
+}
+h3 {
+	font-family: 'Roboto', sans-serif;
+	font-size:16px;
+}
+#header{
+	z-index:100;
+	position:fixed;
+	width:98%;
+	font-family: 'Merriweather', serif;
+	font-size:28px;
+	padding-left:1%;
+	padding-right:1%;
+	padding-top: 0.7%;
+	letter-spacing: 1px;
+}
+.rightLink {
+	position:absolute;
+	right:1%;
+}
+.description{
+	position:absolute;
+	/* z-index:5; */
+}
+.background{
+	position:relative;
+	z-index:-1;
+}
+
+.fullpage {
+	width:100%;
+	position:relative;
+}
+.transition {
+	width:100%;
+	position:relative;
+}
+.picture {
+	position:absolute;
+	z-index:10;
+	box-shadow: 16px 15px 3px rgba(113, 45, 15, 0.46);
+}
+/* #main {
+	background-image: url("../images/bckg1.png");
+	background-position:center;
+	background-size:cover;
+	
+} */
+#workdescription1 {
+	top:35%;
+	left: 48%;
+}
+#workdescription2 {
+	top:35%;
+	left: 21%;
+}
+#workdescription3 {
+	top:35%;
+	left: 40%;
+}
+#workdescription4 {
+	top:35%;
+	left: 15%;
+}
+#aboutdescription {
+	top:35%;
+	left: 42%;
+}
+#pic1{
+	top:20%;
+	left:55%;
+	width:40%; 
+	height:auto;}
+#pic2{
+	top:45%;
+	left:45%;
+	width:40%; 
+	height:auto;
+}
+#pic3{
+	top:40%;
+	left:50%;
+	width:40%; 
+	height:auto;
+}
+#pic4{
+	top:45%;
+	left:10%;
+	width:40%; 
+	height:auto;
+}
+#pic5{
+	top:30%;
+	left:11%;
+	width:40%; 
+	height:auto;
+}
+#pic6{
+	top:40%;
+	left:16%;
+	width:40%; 
+	height:auto;
+}
+
+
+
+#vid1{
+	top:10%;
+	left:25%;
+}
+
+
+
+
+#dood1{
+	top:40%;
+	left:16%;
+	width:20%; 
+	height:auto;
+}
+#dood2{
+	top:10%;
+	left:50%;
+	width:20%; 
+	height:auto;
+}
+#dood3{
+	top:32%;
+	left:75%;
+	width:20%; 
+	height:auto;
+}
+#dood4{
+	top:36%;
+	left:42%;
+	width:30%; 
+	height:auto;
+}
+
+
+
+
+#tran0{
+	background-color:#089DBF;
+	height:5%;
+}
+#tran1{
+	background-color:#087C8E;
+	height:35%;
+}
+#tran2{
+	background-color:#089DBF;
+	height:35%;
+}
+#tran4{
+	background-color:#F44E30;
+	height:10%;
+}
+
+
+
+
+#footer{
+	z-index:100;
+	position:fixed;
+	width:98%;
+	font-family: 'Merriweather', serif;
+	font-size:28px;
+	bottom:0%;
+	padding-left:1%;
+	padding-right:1%;
+	padding-bottom: 0.7%;
+	letter-spacing: 1px;
+}
+	
