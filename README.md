@@ -1,2 +1,0 @@
-# thebigA
-Adelina Glebova - Portfolio
